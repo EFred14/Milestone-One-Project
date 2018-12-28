@@ -9,7 +9,7 @@ body {
     background-color: #e4e4e4!important;
     font-family: 'Aleo', sans-serif;
 }
-/*--------------------------------------------Margins/Paddings/Text*/
+/*--------------------------------------------Margins/Padding/Text*/
 
 #news2018 {
     margin-left: 25%;
@@ -48,7 +48,6 @@ body {
     margin-right: auto;
     width: 82%;
     height: 24%;
-
 }
 
 .image-2 img {
@@ -131,12 +130,21 @@ body {
     width: 100%;
 }
 
-/*--------------------------------------------Navbar/Navbar Colors*/
-.navbar {
-    position: relative;
+.jumbotron {
+    color: #FF1493;
+    background-color:#f2e2e4;
+    margin-top:1em;
+    margin-bottom: 1em;
+}  
+
+.gaga-listen-image img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0%;
+    width: 75%;
+    height: 36%;
 }
-
-
 
 /*--------------------------------------------Hover.css*/
 
@@ -145,6 +153,13 @@ body {
 /*--------------------------------------------Media Queries*/
 
 /*---------------------------------------------------- Audio*/
+audio {
+    width: 110px;
+}
+
+.table-responsive {
+    width: 100%;
+}
 
 /*---------------------------------------------------- Video*/
 .videowrapper {
