@@ -1,0 +1,79 @@
+/*--------------------------------------------Colors*/
+
+.bg-light {
+    background-color: #d0d0d0!important;
+}
+
+body {
+    margin: 0px !important;
+    background-color: #e4e4e4!important;
+    font-family: 'Aleo', sans-serif;
+}
+/*--------------------------------------------Margins/Paddings/Text*/
+
+#news2018 {
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.content-news {
+    text-align: center;
+}
+
+.heading-of-news-section {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.inside-news {
+    position: relative;
+    width: 100%;
+    min-height: 5px;
+    padding: 25px 30px;
+}
+
+.recently-seen-title {
+    margin-top: .5em;
+}
+
+.rounded-news {
+    padding-right: 13px;
+}
+
+.image-of-1 img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 82%;
+    height: 24%;
+
+}
+
+.image-2 img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 25%;
+}
+
+
+/*--------------------------------------------Navbar/Navbar Colors*/
+.navbar {
+    position: relative;
+
+}
+
+
+
+/*--------------------------------------------Hover.css*/
+
+/*--------------------------------------------Footer*/
+
+/*--------------------------------------------Media Queries*/
+
+/*---------------------------------------------------- Audio*/
+
+/*---------------------------------------------------- Video*/
