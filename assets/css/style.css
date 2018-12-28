@@ -59,6 +59,50 @@ body {
     height: 25%;
 }
 
+.top-image-about img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 0px;
+    width: 70%;
+    height: 10%;
+}
+
+#gagaplaying {
+    padding-right: 25px;
+    height: 200px;
+    width: 175px;
+}
+
+#gagaschool {
+    padding-right: 25px;
+    height: 175px;
+    width: 300px;
+}
+
+#superbowl {
+    padding-right: 25px !important;
+    height: 190px;
+    width: 250px;
+}
+
+
+.gaga-early-beg,
+.gaga-early-career,
+.early-performances {
+    padding: 25px 25px 5px 25px;
+    font-size: 18px;
+
+}
+
+.story-of-2018 {
+    padding: 25px 15px 15px 25px;
+    font-size: 18px;
+}
+
+.about-title {
+    font-weight: bold;
+}
 
 /*--------------------------------------------Navbar/Navbar Colors*/
 .navbar {
