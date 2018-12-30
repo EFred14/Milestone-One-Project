@@ -190,6 +190,23 @@ body {
 /*--------------------------------------------Hover.css*/
 
 /*--------------------------------------------Footer*/
+footer {
+    padding-top: 10%;
+    width: 100%;
+}
+
+.footer-icons {
+    padding-top: 9px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.copyright {
+    font-size: 12px !important;
+}
+
+
+
 
 /*--------------------------------------------Media Queries*/
 
