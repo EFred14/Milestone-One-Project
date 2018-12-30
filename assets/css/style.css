@@ -154,6 +154,36 @@ body {
     margin-top: 20px;
 }
 
+.title-color-pink,
+.nav-pink {
+    color: #FF1493;
+    text-shadow: 1px 1px #050a0d;
+}
+
+.title-color-turquoise,
+.nav-turquoise {
+    color: #32d7da;
+     text-shadow: 1px 1px #050a0d;
+}
+
+.title-color-red,
+.nav-red {
+    color: #ff471a;
+    text-shadow: 1px 1px #050a0d;
+}
+
+.title-color-blue,
+.nav-blue {
+    color: #0080ff;
+     text-shadow: 1px 1px #050a0d;
+}
+
+.title-color-purple,
+.nav-purple {
+    color: #7b00d1;
+     text-shadow: 1px 1px #050a0d;
+}
+
 
 /*--------------------------------------------Hover.css*/
 
