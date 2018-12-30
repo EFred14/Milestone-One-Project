@@ -187,7 +187,24 @@ body {
 }
 
 
-/*--------------------------------------------Hover.css*/
+/*--------------------------------------------Hover.css/social icons*/
+#social i {
+    color: #000000;
+    width: 40px;
+    height: 40px;
+    font-size: 28px;
+    padding: 6px;
+    text-align: center;
+    border-radius:50%;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+#social i:hover {
+    background: #A9A9A9;
+}
 
 /*--------------------------------------------Footer*/
 footer {
