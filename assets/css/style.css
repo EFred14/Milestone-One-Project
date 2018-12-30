@@ -9,6 +9,10 @@ body {
     background-color: #e4e4e4!important;
     font-family: 'Aleo', sans-serif;
 }
+
+.chat-purple {
+    color: #7b00d1;
+}
 /*--------------------------------------------Margins/Padding/Text*/
 
 #news2018 {
@@ -145,6 +149,11 @@ body {
     width: 75%;
     height: 36%;
 }
+
+.chat-section {
+    margin-top: 20px;
+}
+
 
 /*--------------------------------------------Hover.css*/
 
