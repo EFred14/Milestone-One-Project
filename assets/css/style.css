@@ -116,7 +116,7 @@ body {
 }
 
 #superbowl {
-    padding-right: 25px !important;
+    padding-right: 25px;
     height: 190px;
     width: 250px;
 }
@@ -223,6 +223,46 @@ footer {
 }
 
 /*--------------------------------------------Media Queries*/
+@media (max-width: 475px) {
+    .gaga-early-beg,
+    .gaga-early-career,
+    .early-performances {
+        padding-left: 20px;
+        padding-right:20px;
+    }
+}
+ 
+@media (max-width: 320px) {
+    .gaga-early-career,
+    .early-performances,
+    .story-of-2018 {
+        text-align: center
+    }
+}
+       
+@media (max-width:451px) {
+    #gagaschool {
+        width: 400px;
+        padding-right: 0px;
+    }
+}
+
+@media (max-width:337px) {
+    #superbowl {
+        width: 275px;
+        float: none;
+        padding-right: 0px;
+    }
+}
+
+@media (max-width:447px) {
+    .story-of-2018 {
+        padding-left: 10px;
+        padding-right:10px;
+        float: none;
+    }
+}
+
 
 /*---------------------------------------------------- Audio*/
 audio {
@@ -241,7 +281,6 @@ audio {
     width: 100%;
     margin: 0 auto;
 }
-
 
 .videowrapper iframe{
     position: absolute;
