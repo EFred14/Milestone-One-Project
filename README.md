@@ -73,8 +73,10 @@ JavaScript and JQuery were used to assist in the execution of bootstrap 4. https
 ## Testing
 During the development of the website, a variety of testing took to place. Below you will find the testing that occurred. The tests were done in various browsers (Chrome, Safari, and Internet Explorer) and performed on multiple devices that have various screen sizes (Desktops, Laptops, tablets, and cell phones).  
 
-**Testing documentation regarding the user stories and browser testing can be viewed:** 
-(****************) Add link here (********************)
+**Testing documentation** regarding the user stories and browser testing can be viewed: 
+
+ Milestone-One-Project/Testing Milestone One.docx
+      
 
 The website shares the same content at various device sizes. For smaller devices, the navigation bar becomes a dropdown and expands as the size of the screen increases. Also, at a smaller screen size, the some of the content becomes one column and expands as the screen size becomes larger. This can be seen on the Home Page and Events Page.
 
