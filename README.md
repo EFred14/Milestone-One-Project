@@ -35,10 +35,10 @@ When brainstorming the **initial concept**, I typed up what I wanted to do with 
 * **Dates on Events Page**. The dates on the Events Page are links that enable the user the ability to shop for tickets for show.
 
  ### Features Left to Implement
-* Calendar. I would like to implement a calendar that updates the artist’s availability. 
-* Live Camera. I would add a section where the artist added live feeds/shared live performances/shared snippets of their life.
-* Purchase songs/Albums. I would enable purchasing options for music on the website using Amazon Music and itunes. 
-* Add an automatically updating sold out notification under the ‘events’ page
+* **Calendar**. I would like to implement a calendar that updates the artist’s availability. 
+* **Live Camera**. I would add a section where the artist added live feeds/shared live performances/shared snippets of their life.
+* **Purchase songs/Albums**. I would enable purchasing options for music on the website using Amazon Music and itunes. 
+* **Notification** Add an automatically updating sold out notification under the ‘events’ page
 
 ## Technologies Used
 ### HTML & CSS 
@@ -73,7 +73,7 @@ JavaScript and JQuery were used to assist in the execution of bootstrap 4. https
 ## Testing
 During the development of the website, a variety of testing took to place. Below you will find the testing that occurred. The tests were done in various browsers (Chrome, Safari, and Internet Explorer) and performed on multiple devices that have various screen sizes (Desktops, Laptops, tablets, and cell phones).  
 
-Testing documentation regarding the user stories and browser testing can be viewed: 
+**Testing documentation regarding the user stories and browser testing can be viewed:** 
 (****************) Add link here (********************)
 
 The website shares the same content at various device sizes. For smaller devices, the navigation bar becomes a dropdown and expands as the size of the screen increases. Also, at a smaller screen size, the some of the content becomes one column and expands as the screen size becomes larger. This can be seen on the Home Page and Events Page.
@@ -83,6 +83,7 @@ During the project, from the beginning, I was having difficulty with my laptop a
 ## Deployment
 This page has been deployed using **GitHub Pages** and can be viewed at:
 (************)  Add link here (************)
+
 To deploy my project onto a server, GitHub was used. A new repository was created and given a fitting name. Then, the project was pushed from Cloud9 to GitHub.
 
 ## Credits
