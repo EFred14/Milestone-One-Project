@@ -75,7 +75,7 @@ During the development of the website, a variety of testing took to place. Below
 
 **Testing documentation** regarding the user stories and browser testing can be viewed: 
 
- Milestone-One-Project/Testing Milestone One.docx
+ https://github.com/EFred14/Milestone-One-Project/blob/master/Testing%20Milestone%20One.docx
       
 
 The website shares the same content at various device sizes. For smaller devices, the navigation bar becomes a dropdown and expands as the size of the screen increases. Also, at a smaller screen size, the some of the content becomes one column and expands as the screen size becomes larger. This can be seen on the Home Page and Events Page.
@@ -101,7 +101,7 @@ To deploy my project onto a server, GitHub was used. A new repository was create
 ### Media
 ### Photos
 The photos used in this site were obtained from a variety of sources.
-NEWS Icons
+**NEWS Icons**
 * **abc.news** - https://abcnews.go.com/
 * **enews**- https://www.eonline.com/
 * **et**- https://www.etonline.com/
@@ -109,7 +109,7 @@ NEWS Icons
 * **latimes**- https://www.latimes.com/
 * **rs2**- https://www.rollingstone.com/
 
-ARTIST Images
+**ARTIST Images**
 * **gaga1**- https://vmagazine.com/article/lady-gaga-pens-personal-essay-womanhood/
 * **gaga2**-http://mediahype101.com/page/19?br=%2F%2Fmediahype101.blogspot.com%2F2016%2F11%2Fdiscovered-monuson-and-kami-diser-drop.html
 * **gaga3**- https://www.ticketnews.com/2018/08/lady-gaga-reveals-upcoming-vegas-residency/
