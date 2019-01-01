@@ -5,30 +5,31 @@ Lady Gaga was selected for the project as she has recently been featured on vari
 
 ## UX
 I have designed and created website for the fans of Lady Gaga. The goal of this website was to showcase all of Lady Gaga’s talents and act as band website where one can learn about the band, ask questions, and find tickets to current shows. It is centered around the needs of the user all the while placing an emphasis on the needs a band (Lady Gaga).
-The following User Stories were brainstormed during the planning process: 
+
+The following **User Stories** were brainstormed during the planning process: 
 * As a long-time fan/potential fan, I would like to see if any new music is out, so that I can listen to it/see if I like it.
 * As a fan, I would like to check out tour dates/locations, so that I can see the singer live.
 * As a concert venue/ private event, I would like to see the artist’s social media accounts to know if they have a following (would it generate revenue?).
-⋅⋅* As an artist, I would like fans/future clients to be able to contact me, so that I can book events/build relationships. 
-⋅⋅* As an event planner, I would like to book private events, so that I can plan private parties. 
-⋅⋅* As a fan, I would like to see a video of the artist, to see what live performances are like, so that I can book the singer or attend a concert.
-⋅⋅* As a fan/potential fan, I would like to know more about the artist, so that I can potentially become a fan/learn more about an artist.
+* As an artist, I would like fans/future clients to be able to contact me, so that I can book events/build relationships. 
+* As an event planner, I would like to book private events, so that I can plan private parties. 
+* As a fan, I would like to see a video of the artist, to see what live performances are like, so that I can book the singer or attend a concert.
+* As a fan/potential fan, I would like to know more about the artist, so that I can potentially become a fan/learn more about an artist.
 
-When brainstorming the initial concept, I typed up what I wanted to do with each page of the website. 
-PAGE 1 (Home Page) – Navbar , Large picture B&W, Current news features with pictures of news sites, bottom picture, footer. 
-PAGE 2 ( About Page)- Navbar, Large Picture, multiple sections with pictures about Lady Gaga and 1 section about this past year, footer. 
-PAGE 3 ( Events Page)- Navbar, Large Picture, show concert dates & images as circles, create private event section at bottom of page, Video, footer. 
-PAGE 4 (Listen Page) – Navbar, Large Picture, Words and/or Jumbotron, songs in table, footer.
-PAGE 5 (Contact Page)-Navbar, Basic contact form, footer. 
+When brainstorming the **initial concept**, I typed up what I wanted to do with each page of the website. 
+* **PAGE 1** (Home Page) – Navbar , Large picture B&W, Current news features with pictures of news sites, bottom picture, footer. 
+* **PAGE 2** ( About Page)- Navbar, Large Picture, multiple sections with pictures about Lady Gaga and 1 section about this past year,  footer. 
+* **PAGE 3** ( Events Page)- Navbar, Large Picture, show concert dates & images as circles, create private event section at bottom of page, Video, footer. 
+* **PAGE 4** (Listen Page) – Navbar, Large Picture, Words and/or Jumbotron, songs in table, footer.
+* **PAGE 5** (Contact Page)-Navbar, Basic contact form, footer. 
 
-Other Ideas- Navbar Titles different colors, link to buy tickets in Navbar. Light background.
+**Other Ideas**- Navbar Titles different colors, link to buy tickets in Navbar. Light background.
 
 ## Features
 ### Existing Features
-Responsive. Allows users to utilize the website on a variety of devices.
-Navigation Bar. Allows users to navigate the website by clicking on links to the other pages. Added an ‘active’ class which identifies which page the user is on. The Navbar collapses to a ‘burger’ dropdown menu when at mobile screen sizes. This prevents overcrowded at smaller screen sizes. In the Navbar a link was added to allow the user the ability to buy tickets without searching the website. The link opens a new tab.
-Embedded Video. A video is embedded into the Events Page, which allows the user the ability to press play and pause at any time during viewing.
-Embedded Audio. Three full songs are embedded into the Listen Page, which allows the user the ability to listen to the artist’s songs. Users can play and pause the songs. 
+   **Responsive**. Allows users to utilize the website on a variety of devices.
+   **Navigation Bar**. Allows users to navigate the website by clicking on links to the other pages. Added an ‘active’ class which identifies which page the user is on. The Navbar collapses to a ‘burger’ dropdown menu when at mobile screen sizes. This prevents overcrowded at smaller screen sizes. In the Navbar a link was added to allow the user the ability to buy tickets without searching the website. The link opens a new tab.
+   **Embedded Video**. A video is embedded into the Events Page, which allows the user the ability to press play and pause at any time during viewing.
+   **Embedded Audio**. Three full songs are embedded into the Listen Page, which allows the user the ability to listen to the artist’s songs. Users can play and pause the songs. 
 Contact Form. The form allows the user to submit a question, concern, etc. by filling out their name, email address, and writing a comment/question. In order to submit the form, the user must fill out all three fields.
 Social Media Icons. Links to Lady Gaga’s Facebook, Twitter, and Youtube channel are in the footer. The icons came from FontAwesome. When hovered, the links change color to indicate the user’s link selection. All the links open a new tab and take the user to an external site.
 Dates on Events Page. The dates on the Events Page are links that enable the user the ability to shop for tickets for show.
