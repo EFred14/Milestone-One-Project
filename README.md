@@ -6,13 +6,13 @@ Lady Gaga was selected for the project as she has recently been featured on vari
 ## UX
 I have designed and created website for the fans of Lady Gaga. The goal of this website was to showcase all of Lady Gaga’s talents and act as band website where one can learn about the band, ask questions, and find tickets to current shows. It is centered around the needs of the user all the while placing an emphasis on the needs a band (Lady Gaga).
 The following User Stories were brainstormed during the planning process: 
-•As a long-time fan/potential fan, I would like to see if any new music is out, so that I can listen to it/see if I like it.
-•As a fan, I would like to check out tour dates/locations, so that I can see the singer live.
-•As a concert venue/ private event, I would like to see the artist’s social media accounts to know if they have a following (would it generate revenue?).
-•As an artist, I would like fans/future clients to be able to contact me, so that I can book events/build relationships. 
-•As an event planner, I would like to book private events, so that I can plan private parties. 
-•As a fan, I would like to see a video of the artist, to see what live performances are like, so that I can book the singer or attend a concert.
-•As a fan/potential fan, I would like to know more about the artist, so that I can potentially become a fan/learn more about an artist.
+⋅⋅* As a long-time fan/potential fan, I would like to see if any new music is out, so that I can listen to it/see if I like it.
+⋅⋅* As a fan, I would like to check out tour dates/locations, so that I can see the singer live.
+⋅⋅* As a concert venue/ private event, I would like to see the artist’s social media accounts to know if they have a following (would it generate revenue?).
+⋅⋅* As an artist, I would like fans/future clients to be able to contact me, so that I can book events/build relationships. 
+⋅⋅* As an event planner, I would like to book private events, so that I can plan private parties. 
+⋅⋅* As a fan, I would like to see a video of the artist, to see what live performances are like, so that I can book the singer or attend a concert.
+⋅⋅* As a fan/potential fan, I would like to know more about the artist, so that I can potentially become a fan/learn more about an artist.
 
 When brainstorming the initial concept, I typed up what I wanted to do with each page of the website. 
 PAGE 1 (Home Page) – Navbar , Large picture B&W, Current news features with pictures of news sites, bottom picture, footer. 
