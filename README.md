@@ -84,7 +84,7 @@ During the project, from the beginning, I was having difficulty with my laptop a
 
 ## Deployment
 This page has been deployed using **GitHub Pages** and can be viewed at:
-(************)  Add link here (************)
+https://efred14.github.io/Milestone-One-Project/
 
 To deploy my project onto a server, GitHub was used. A new repository was created and given a fitting name. Then, the project was pushed from Cloud9 to GitHub.
 
