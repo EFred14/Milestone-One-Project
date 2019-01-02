@@ -43,8 +43,8 @@ When brainstorming the **initial concept**, I typed up what I wanted to do with 
 ## Technologies Used
 ### HTML & CSS 
 Used as base languages to for the website.
-https://www.w3.org/TR/html/ 
-https://www.w3.org/Style/CSS/Overview.en.html 
+* https://www.w3.org/TR/html/ 
+* https://www.w3.org/Style/CSS/Overview.en.html 
 
 ### Bootstrap
 This project uses Bootstrap 4 as a framework to assist in the page layout. Bootstrap was used for the Navigation bar, table, jumbotron, grid layout, and contact form. https://getbootstrap.com/
