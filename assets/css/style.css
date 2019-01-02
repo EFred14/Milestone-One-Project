@@ -234,9 +234,8 @@ footer {
  
 @media (max-width: 320px) {
     .gaga-early-career,
-    .early-performances,
-    .story-of-2018 {
-        text-align: center
+    .early-performances {
+        text-align: center;
     }
 }
        
@@ -244,6 +243,18 @@ footer {
     #gagaschool {
         width: 400px;
         padding-right: 0px;
+    }
+}
+
+@media (max-width: 460px) {
+    .gaga-early-career {
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .story-of-2018 {
+        text-align: center;
     }
 }
 
