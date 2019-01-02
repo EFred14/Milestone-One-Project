@@ -186,6 +186,9 @@ body {
     margin-top: 20px;
 }
 
+html,body{ 
+    overflow-x:hidden; 
+} 
 
 /*--------------------------------------------Hover.css/social icons*/
 #social i {
