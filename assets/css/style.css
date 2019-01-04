@@ -14,6 +14,7 @@ body {
     color: #7b00d1;
 }
 
+#pink-tour,
 .title-color-pink,
 .nav-pink, 
 .navbar-title.pink-title {
@@ -214,6 +215,7 @@ html,body{
     background: #A9A9A9;
 }
 
+#pink-tour:hover,
 #blue-tour:hover,
 #turquoise-tour:hover,
 #red-tour:hover,
