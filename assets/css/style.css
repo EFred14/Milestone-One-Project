@@ -45,6 +45,7 @@ body {
      text-shadow: 1px 1px #050a0d;
 }
 
+#purple-tour,
 .title-color-purple,
 .nav-purple,
 .navbar-title.purple-title {
@@ -215,6 +216,7 @@ html,body{
     background: #A9A9A9;
 }
 
+#purple-tour:hover,
 #pink-tour:hover,
 #blue-tour:hover,
 #turquoise-tour:hover,
