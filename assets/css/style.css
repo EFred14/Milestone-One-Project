@@ -15,7 +15,8 @@ body {
 }
 
 .title-color-pink,
-.nav-pink {
+.nav-pink, 
+.navbar-title.pink-title {
     color: #FF1493;
     text-shadow: 1px 1px #050a0d;
 }
