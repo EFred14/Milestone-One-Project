@@ -21,6 +21,7 @@ body {
     text-shadow: 1px 1px #050a0d;
 }
 
+#turquoise-tour,
 .title-color-turquoise,
 .nav-turquoise,
 .navbar-title {
@@ -212,6 +213,7 @@ html,body{
     background: #A9A9A9;
 }
 
+#turquoise-tour:hover,
 #red-tour:hover,
 .navbar-title:hover {
     color:#000000;
