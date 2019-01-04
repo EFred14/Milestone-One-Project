@@ -28,6 +28,7 @@ body {
      text-shadow: 1px 1px #050a0d;
 }
 
+#red-tour,
 .title-color-red,
 .nav-red {
     color: #ff471a;
@@ -46,10 +47,6 @@ body {
 .navbar-title.purple-title {
     color: #7b00d1;
      text-shadow: 1px 1px #050a0d;
-}
-
-.navbar-title:hover {
-    color:#000000;
 }
 
 /*--------------------------------------------Margins/Padding/Text*/
@@ -213,6 +210,11 @@ html,body{
 
 #social i:hover {
     background: #A9A9A9;
+}
+
+#red-tour:hover;
+.navbar-title:hover {
+    color:#000000;
 }
 
 /*--------------------------------------------Footer*/
