@@ -42,7 +42,8 @@ body {
 }
 
 .title-color-purple,
-.nav-purple {
+.nav-purple,
+.navbar-title.purple-title {
     color: #7b00d1;
      text-shadow: 1px 1px #050a0d;
 }
