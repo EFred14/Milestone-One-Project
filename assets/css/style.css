@@ -36,6 +36,7 @@ body {
     text-shadow: 1px 1px #050a0d;
 }
 
+#blue-tour,
 .title-color-blue,
 .nav-blue, 
 .navbar-title.blue-title {
@@ -213,6 +214,7 @@ html,body{
     background: #A9A9A9;
 }
 
+#blue-tour:hover,
 #turquoise-tour:hover,
 #red-tour:hover,
 .navbar-title:hover {
