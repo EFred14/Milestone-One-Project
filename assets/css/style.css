@@ -7,7 +7,7 @@
 body {
     margin: 0px !important;
     background-color: #e4e4e4!important;
-    font-family: 'Aleo', sans-serif;
+    font-family:'ZCOOL KuaiLe', cursive; 
 }
 
 .chat-purple {
@@ -129,10 +129,6 @@ body {
     height: 36%;
 }
 /*--------------------------------------------Margins/Padding/Text*/
-
-body { 
-    font-family: 'ZCool KuaiLe', sans-serif;
-}
     
 #news2018 {
     margin-left: 25%;
