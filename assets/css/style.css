@@ -283,7 +283,7 @@ footer {
 
 @media (max-width: 767) {
     #gagacooperawards {
-        padding-left: 0px;
+        padding-left: 0px !important;
     }
 }
     
