@@ -27,7 +27,7 @@ When brainstorming the **initial concept**, I typed up what I wanted to do with 
 ## Features
 ### Existing Features
 * **Responsive**. Allows users to utilize the website on a variety of devices.
-* **Navigation Bar**. Allows users to navigate the website by clicking on links to the other pages. Added an ‘active’ class which identifies which page the user is on. The Navbar collapses to a ‘burger’ dropdown menu when at mobile screen sizes. This prevents overcrowded at smaller screen sizes. In the Navbar a link was added to allow the user the ability to buy tickets without searching the website. The link opens a new tab.
+* **Navigation Bar**. Allows users to navigate the website by clicking on links to the other pages. Added an ‘active’ class which identifies which page the user is on. The Navbar collapses to a ‘burger’ dropdown menu when at mobile screen sizes. This prevents overcrowded at smaller screen sizes. In the Navbar a link was added to allow the user the ability to buy tickets without searching the website. The link opens a new tab.  Links to homepage are in the title.
 * **Embedded Video**. A video is embedded into the Events Page, which allows the user the ability to press play and pause at any time during viewing.
 * **Embedded Audio**. Three full songs are embedded into the Listen Page, which allows the user the ability to listen to the artist’s songs. Users can play and pause the songs. 
 * **Contact Form**. The form allows the user to submit a question, concern, etc. by filling out their name, email address, and writing a comment/question. In order to submit the form, the user must fill out all three fields.
