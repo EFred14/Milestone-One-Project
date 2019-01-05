@@ -283,13 +283,6 @@ footer {
     }
 }
 
-@media (min-width: 540px) {
-    img#gagacooperawards.img-fluid {
-        padding-left: 0px !important;
-    }
-}
-    
-
 @media (max-width:337px) {
     #superbowl {
         width: 300px;
