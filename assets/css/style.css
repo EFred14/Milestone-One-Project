@@ -102,7 +102,7 @@ body {
 }
 
 #gagacooperawards {
-  padding-left: 25px;  
+  padding-left: 0px;  
 }
 
 .image-of-gaga-events img {
@@ -281,7 +281,7 @@ footer {
     }
 }
 
-@media (max-width: 767) {
+@media (min-width: 540) {
     img#gagacooperawards.img-fluid {
         padding-left: 0px !important;
     }
