@@ -130,6 +130,10 @@ body {
 }
 /*--------------------------------------------Margins/Padding/Text*/
 
+body { 
+    font-family: 'Aleo', sans-serif;
+}
+    
 #news2018 {
     margin-left: 25%;
     margin-right: 25%;
