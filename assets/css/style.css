@@ -105,6 +105,29 @@ body {
   padding-left: 25px;  
 }
 
+.image-of-gaga-events img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 0px;
+    width: 80%;
+    height: 20%;
+}
+
+.bottom-image-events img {
+    display: inline-block;
+    height: 25%;
+    width: 100%;
+}
+
+.gaga-listen-image img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0%;
+    width: 75%;
+    height: 36%;
+}
 /*--------------------------------------------Margins/Padding/Text*/
 
 #news2018 {
@@ -163,36 +186,12 @@ body {
     font-weight: bold;
 }
 
-.image-of-gaga-events img {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-right: 0px;
-    width: 80%;
-    height: 20%;
-}
-
-.bottom-image-events img {
-    display: inline-block;
-    height: 25%;
-    width: 100%;
-}
-
 .jumbotron {
     color: #FF1493;
     background-color:#f2e2e4;
     margin-top:1em;
     margin-bottom: 1em;
 }  
-
-.gaga-listen-image img {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 0%;
-    width: 75%;
-    height: 36%;
-}
 
 .chat-section {
     margin-top: 20px;
