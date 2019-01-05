@@ -53,6 +53,58 @@ body {
      text-shadow: 1px 1px #050a0d;
 }
 
+/*--------------------------------------------Images*/
+.image-of-1 img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 82%;
+    height: 24%;
+}
+
+.image-2 img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 25%;
+}
+
+.top-image-about img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 0px;
+    width: 70%;
+    height: 10%;
+}
+
+.rounded-news {
+    padding-right: 13px;
+}
+
+#gagaplaying {
+    padding-right: 25px;
+    height: 200px;
+    width: 175px;
+}
+
+#gagaschool {
+    padding-right: 25px;
+    height: 175px;
+    width: 300px;
+}
+
+#superbowl {
+    padding-right: 25px;
+    height: 190px;
+    width: 250px;
+}
+
+#gagacooperawards {
+  padding-left: 25px;  
+}
+
 /*--------------------------------------------Margins/Padding/Text*/
 
 #news2018 {
@@ -80,57 +132,6 @@ body {
 
 .recently-seen-title {
     margin-top: .5em;
-}
-
-.rounded-news {
-    padding-right: 13px;
-}
-
-.image-of-1 img {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 82%;
-    height: 24%;
-}
-
-.image-2 img {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    height: 25%;
-}
-
-.top-image-about img {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-right: 0px;
-    width: 70%;
-    height: 10%;
-}
-
-#gagaplaying {
-    padding-right: 25px;
-    height: 200px;
-    width: 175px;
-}
-
-#gagaschool {
-    padding-right: 25px;
-    height: 175px;
-    width: 300px;
-}
-
-#superbowl {
-    padding-right: 25px;
-    height: 190px;
-    width: 250px;
-}
-
-#gagacooperawards {
-  padding-left: 25px;  
 }
 
 .gaga-early-beg,
