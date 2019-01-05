@@ -281,7 +281,7 @@ footer {
     }
 }
 
-@media (min-width: 540) {
+@media (min-width: 540px) {
     img#gagacooperawards.img-fluid {
         padding-left: 0px !important;
     }
