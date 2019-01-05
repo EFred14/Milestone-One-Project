@@ -275,14 +275,6 @@ footer {
     }
 }
 
-@media (max-width: 767px) {
-    .story-of-2018 {
-        text-align: center;
-        margin: 0 auto;
-        clear:both;
-    }
-}
-
 @media (max-width:337px) {
     #superbowl {
         width: 300px;
