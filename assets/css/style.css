@@ -282,8 +282,8 @@ footer {
 }
 
 @media (max-width: 767) {
-img#gagacooperawards {
-    padding-left: 0px;
+    #gagacooperawards {
+        padding-left: 0px;
     }
 }
     
