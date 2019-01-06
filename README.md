@@ -72,6 +72,10 @@ https://github.com/
 ### JavaScript & JQuery
 JavaScript and JQuery were used to assist in the execution of bootstrap 4. https://www.javascript.com/    https://jquery.com/
 
+### W3C Jigsaw CSS Validator
+Used to check CSS.
+https://jigsaw.w3.org/css-validator/
+
 ### W3C Markup Validator
 Used to check code. 
 https://validator.w3.org/
