@@ -131,23 +131,27 @@ body {
 }
 /*--------------------------------------------Margins/Padding/Text*/
     
-#news2018 {
+#news2018,
+#about2018 {
     margin-left: 25%;
     margin-right: 25%;
     padding-right: 0px;
     padding-left: 0px;
 }
 
-.content-news {
+.content-news,
+.content-about {
     text-align: center;
 }
 
-.heading-of-news-section {
+.heading-of-news-section,
+..heading-of-about-section {
     padding-right: 0px;
     padding-left: 0px;
 }
 
-.inside-news {
+.inside-news,
+.inside-about {
     position: relative;
     width: 100%;
     min-height: 5px;
