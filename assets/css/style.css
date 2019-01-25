@@ -132,7 +132,8 @@ body {
 /*--------------------------------------------Margins/Padding/Text*/
     
 #news2018,
-#about2018 {
+#about2018, 
+#shows2018 {
     margin-left: 25%;
     margin-right: 25%;
     padding-right: 0px;
@@ -145,13 +146,15 @@ body {
 }
 
 .heading-of-news-section,
+.heading-of-about-section,
 .heading-of-about-section {
     padding-right: 0px;
     padding-left: 0px;
 }
 
 .inside-news,
-.inside-about {
+.inside-about,
+.inside-shows {
     position: relative;
     width: 100%;
     min-height: 5px;
@@ -208,17 +211,17 @@ html,body{
 
 /*--------------------------------------------Hover.css/social icons*/
 #social i {
-    color: #000000;
-    width: 40px;
-    height: 40px;
-    font-size: 28px;
-    padding: 6px;
-    text-align: center;
-    border-radius:50%;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
+   color: #000000;
+   width: 40px;
+   height: 40px;
+   font-size: 28px;
+   padding: 6px;
+   text-align: center;
+   border-radius:50%;
+   transition: all 0.35s ease-in-out;
+   -moz-transition: all 0.35s ease-in-out;
+   -webkit-transition: all 0.35s ease-in-out;
+   -o-transition: all 0.35s ease-in-out;
 }
 
 #social i:hover {
