@@ -142,13 +142,15 @@ body {
 
 .content-news,
 .content-about,
-.content-shows {
+.content-shows,
+.content-music {
     text-align: center;
 }
 
 .heading-of-news-section,
 .heading-of-about-section,
-.heading-of-about-section {
+.heading-of-about-section,
+.heading-of-music-section {
     padding-right: 0px;
     padding-left: 0px;
 }
