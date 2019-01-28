@@ -302,10 +302,10 @@ footer {
     }
 }
 
-@media (min-width:1024 px) {
+@media (min-width:1024px) {
     .table-responsive {
-        padding-left: 10%;
-        padding-right: 10%;   
+        padding-left: 10% !important;
+        padding-right: 10% !important;   
     }
 }
 
