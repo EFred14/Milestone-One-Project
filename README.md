@@ -4,7 +4,7 @@ The Lady Gaga website was created to show a variety of skills obtained from The 
 Lady Gaga was selected for the project as she has recently been featured on various shows, in numerous publications, and starred in a film. The website showcases Lady Gaga and acts as a website for her fans.
 
 ## UX
-I have designed and created website for the fans of Lady Gaga. The goal of this website was to showcase all of Lady Gaga’s talents and act as band website where one can learn about the band, ask questions, and find tickets to current shows. It is centered around the needs of the user all the while placing an emphasis on the needs a band (Lady Gaga).
+I have designed and created website for the fans of Lady Gaga. The goal of this website was to showcase all of Lady Gaga’s talents and act as a band website where one can learn about the band, ask questions, and find tickets to current shows. It is centered around the needs of the user all the while placing an emphasis on the needs a band (Lady Gaga).
 
 The following **User Stories** were brainstormed during the planning process: 
 * As a long-time fan/potential fan, I would like to see if any new music is out, so that I can listen to it/see if I like it.
