@@ -300,6 +300,13 @@ footer {
     }
 }
 
+@media (max-width:478px) {
+    .table-responsive {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
 
 /*---------------------------------------------------- Audio*/
 audio {
@@ -307,8 +314,11 @@ audio {
 }
 
 .table-responsive {
-    width: 100%;
+    display: block;
+    padding-left: 10%;
+    padding-right: 10%;
 }
+
 
 /*---------------------------------------------------- Video*/
 .videowrapper {
