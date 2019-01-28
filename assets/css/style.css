@@ -302,11 +302,10 @@ footer {
     }
 }
 
-@media (max-width:478px) {
+@media (min-width:1024 px) {
     .table-responsive {
-        padding-left: 0;
-        padding-right: 0;
-        width:100%;
+        padding-left: 10%;
+        padding-right: 10%;   
     }
 }
 
@@ -318,8 +317,9 @@ audio {
 
 .table-responsive {
     display: block;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 0;
+    padding-right:0;
+    width:100%;
 }
 
 
