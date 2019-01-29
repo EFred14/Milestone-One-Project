@@ -257,6 +257,14 @@ footer {
 }
 
 /*--------------------------------------------Media Queries*/
+@media (min-width: 1024px) {
+    .bottom-image-events,
+    .bottom-section-video {
+        padding-left: 25% !important;
+        padding-right: 25% !important;
+    }
+}
+
 @media (max-width: 475px) {
     .gaga-early-beg,
     .gaga-early-career,
