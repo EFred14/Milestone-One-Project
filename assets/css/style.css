@@ -311,7 +311,8 @@ footer {
 }
 
 @media (min-width:1024px) {
-    .table-responsive {
+    .table-responsive,
+    .jumbotron {
         padding-left: 20% !important;
         padding-right: 20% !important;   
     }
