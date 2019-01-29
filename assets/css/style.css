@@ -74,7 +74,7 @@ body {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    padding-right: 0px;
+    padding-right: 0;
     width: 70%;
     height: 10%;
 }
@@ -102,7 +102,7 @@ body {
 }
 
 #gagacooperawards {
-    padding-left: 0px;
+    padding-left: 0;
     width:450px;
 }
 
@@ -125,7 +125,7 @@ body {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 0%;
+    padding-top: 0;
     width: 75%;
     height: 36%;
 }
@@ -136,8 +136,8 @@ body {
 #shows2018 {
     margin-left: 25%;
     margin-right: 25%;
-    padding-right: 0px;
-    padding-left: 0px;
+    padding-right: 0;
+    padding-left: 0;
 }
 
 .content-news,
@@ -151,8 +151,8 @@ body {
 .heading-of-about-section,
 .heading-of-about-section,
 .heading-of-music-section {
-    padding-right: 0px;
-    padding-left: 0px;
+    padding-right: 0;
+    padding-left: 0;
 }
 
 .inside-news,
@@ -248,8 +248,8 @@ footer {
 
 .footer-icons {
     padding-top: 9px;
-    padding-right: 0px;
-    padding-left: 0px;
+    padding-right: 0;
+    padding-left: 0;
 }
 
 .copyright {
@@ -286,7 +286,7 @@ footer {
 @media (max-width:451px) {
     #gagaschool {
         width: 400px;
-        padding-right: 0px;
+        padding-right: 0;
     }
 }
 
@@ -300,7 +300,7 @@ footer {
     #superbowl {
         width: 300px;
         float: none;
-        padding-right: 0px;
+        padding-right: 0;
     }
 }
 
