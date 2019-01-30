@@ -179,9 +179,7 @@ body {
     padding: 25px 10px 15px 10px;
 }
 
-.about-title {
-    font-weight: bold;
-}
+
 
 .event-text {
     text-align: center;
@@ -270,13 +268,6 @@ footer {
        margin-left: 0;
        margin-right: 0;
    }
-}
- 
-@media (max-width: 320px) {
-    .gaga-early-career,
-    .early-performances {
-        text-align: center;
-    }
 }
        
 @media (max-width:451px) {
