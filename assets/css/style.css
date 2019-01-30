@@ -66,7 +66,7 @@ body {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    padding-top 3em;
+    padding-top: 3em;
     width: 30%;
     height: 25%;
 }
@@ -325,7 +325,17 @@ footer {
     }
 }
 
-
+@media (max-width:767px) {
+    .image-of-1 img,
+    .image-2 img,
+    .top-image-about img,
+    .image-of-gaga-events img,
+    .gaga-listen-image img {
+        width: 75%;
+        height: 25%;
+    }
+    
+}
 
 /*---------------------------------------------------- Audio*/
 audio {
