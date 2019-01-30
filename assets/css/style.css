@@ -265,13 +265,11 @@ footer {
     }
 }
 
-@media (max-width: 475px) {
-    .gaga-early-beg,
-    .gaga-early-career,
-    .early-performances {
-        padding-left: 20px;
-        padding-right:20px;
-    }
+@media (max-width:1028px){
+   #about2018 {
+       margin-left: 0;
+       margin-right: 0;
+   }
 }
  
 @media (max-width: 320px) {
