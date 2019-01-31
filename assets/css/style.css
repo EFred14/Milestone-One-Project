@@ -281,6 +281,12 @@ footer {
     }
 }
 
+@media (min-width:1024px){
+   #gagacooperawards {
+       width: 350px;
+   }
+}
+
 @media (min-width: 1024px) {
     #life-of-lady-gaga {
         padding-left: 10% !important;
