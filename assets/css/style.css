@@ -261,8 +261,7 @@ footer {
 /*--------------------------------------------Media Queries*/
 @media (min-width: 1024px) {
     .bottom-image-events,
-    .bottom-section-video,
-     #life-of-lady-gaga {
+    .bottom-section-video {
         padding-left: 25% !important;
         padding-right: 25% !important;
     }
@@ -279,6 +278,13 @@ footer {
     #gagaschool {
         width: 400px;
         padding-right: 0;
+    }
+}
+
+@media (min-width: 1024px) {
+    #life-of-lady-gaga {
+        padding-left: 10% !important;
+        padding-right: 10% !important;
     }
 }
 
