@@ -282,12 +282,6 @@ footer {
     }
 }
 
-@media (max-width: 460px) {
-    .gaga-early-career {
-        text-align: center;
-    }
-}
-
 @media (max-width:337px) {
     #superbowl {
         width: 300px;
