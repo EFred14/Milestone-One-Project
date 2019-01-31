@@ -209,6 +209,9 @@ html,body{
     overflow-x:hidden; 
 } 
 
+.nav-item {
+    font-weight: 600;
+}
 /*--------------------------------------------Hover.css/social icons*/
 #social i {
    color: #000000;
