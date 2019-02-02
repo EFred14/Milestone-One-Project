@@ -62,6 +62,10 @@ div.inside-news {
     color:#7F00FF;
 }
 
+.news-stations {
+    font-weight: bold;
+}
+
 /*--------------------------------------------Images*/
 .image-of-1 img {
     display: inline-block;
@@ -188,8 +192,6 @@ div.inside-news {
     padding: 25px 10px 15px 10px;
 }
 
-
-
 .event-text {
     text-align: center;
 }
@@ -270,7 +272,8 @@ footer {
 /*--------------------------------------------Media Queries*/
 @media (min-width: 1024px) {
     .bottom-image-events,
-    .bottom-section-video {
+    .bottom-section-video,
+    #input-form {
         padding-left: 25% !important;
         padding-right: 25% !important;
     }
@@ -324,13 +327,6 @@ footer {
     .quotes-container {
         padding-left: 20% !important;
         padding-right: 20% !important;
-    }
-}
-
-@media (min-width:1024px ) {
-    #input-form {
-        padding-left: 25%;
-        padding-right: 25%;
     }
 }
 
