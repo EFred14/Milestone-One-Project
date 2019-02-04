@@ -54,16 +54,12 @@ body {
 }
 
 div.inside-news {
-    background-color:#c0c0c0;    
+    background-color:#ededed;    
 }
 
 .news-link-button {
     font-weight: bold;
     color:#7F00FF;
-}
-
-#about2018 {
-     background-color: #32d7da;
 }
 
 /*--------------------------------------------Images*/
