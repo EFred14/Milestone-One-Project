@@ -62,10 +62,6 @@ div.inside-news {
     color:#7F00FF;
 }
 
-.news-stations {
-    font-weight: bold;
-}
-
 /*--------------------------------------------Images*/
 .image-of-1 img {
     display: inline-block;
@@ -200,7 +196,9 @@ div.inside-news {
     margin-top: 10%;
 }
 
-.las-vegas-date-header{
+.las-vegas-date-header,
+.gaga-history,
+.news-stations {
     font-weight: bold;
 }
 
