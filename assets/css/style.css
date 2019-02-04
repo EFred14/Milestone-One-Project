@@ -211,7 +211,7 @@ div.inside-news {
 }  
 
 .chat-section {
-    margin-top: 20px;
+     margin-top: 20px;
 }
 
 html,body{ 
@@ -222,8 +222,8 @@ html,body{
     font-weight:600;
 }
 
-#about2018 {
-  font-weight:600;
+.inside-about p {
+   font-weight:600;
 }
 /*--------------------------------------------Hover.css/social icons*/
 #social i {
