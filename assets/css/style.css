@@ -1,12 +1,12 @@
 /*--------------------------------------------Colors*/
 
 .bg-light {
-    background-color: #d0d0d0!important;
+   background-image: url("../images/greybg.jpg");
 }
 
 body {
+    background-image: url("../images/greybg.jpg");
     margin: 0 !important;
-    background-color: #e4e4e4!important;
     font-family:'Aleo', sans-serif; 
 }
 
