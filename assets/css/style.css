@@ -1,13 +1,15 @@
 /*--------------------------------------------Colors*/
 
 .bg-light {
-   background-image: url("../images/greybg.jpg");
+  background-image: url("../images/greybg.jpg");
 }
 
 body {
-    background-image: url("../images/greybg.jpg");
-    margin: 0 !important;
-    font-family:'Aleo', sans-serif; 
+   background-image: url("../images/greybg.jpg");
+   margin: 0 !important;
+   font-family:'Aleo', sans-serif; 
+   font-weight:bolder;
+    
 }
 
 .chat-purple {
