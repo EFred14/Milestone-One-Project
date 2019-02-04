@@ -27,7 +27,7 @@ body {
 .nav-turquoise,
 .navbar-title {
     color: #32d7da;
-     text-shadow: 1px 1px #050a0d;
+    text-shadow: 1px 1px #050a0d;
 }
 
 #red-tour,
@@ -42,7 +42,7 @@ body {
 .nav-blue, 
 .navbar-title.blue-title {
     color: #0080ff;
-     text-shadow: 1px 1px #050a0d;
+    text-shadow: 1px 1px #050a0d;
 }
 
 #purple-tour,
@@ -50,7 +50,7 @@ body {
 .nav-purple,
 .navbar-title.purple-title {
     color: #7b00d1;
-     text-shadow: 1px 1px #050a0d;
+    text-shadow: 1px 1px #050a0d;
 }
 
 div.inside-news {
@@ -211,7 +211,7 @@ div.inside-news {
 }  
 
 .chat-section {
-     margin-top: 20px;
+    margin-top: 20px;
 }
 
 html,body{ 
@@ -223,7 +223,7 @@ html,body{
 }
 
 .inside-about p {
-   font-weight:600;
+   font-weight:500;
 }
 /*--------------------------------------------Hover.css/social icons*/
 #social i {
