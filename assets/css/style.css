@@ -237,7 +237,8 @@ html,body{
 }
 
 #social i:hover {
-    background: #A9A9A9;
+    background:#7F00FF;
+    opacity: 0.7;
 }
 
 #purple-tour:hover,
