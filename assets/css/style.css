@@ -63,7 +63,7 @@ div.inside-news {
 }
 
 button.navbar-toggler {
-    border-color: #000000;
+    border-color: #000000 !important;
 }
 
 /*--------------------------------------------Images*/
