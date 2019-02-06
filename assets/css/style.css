@@ -62,6 +62,10 @@ div.inside-news {
     color:#7F00FF;
 }
 
+button.navbar-toggler {
+    border-color: #000000;
+}
+
 /*--------------------------------------------Images*/
 .image-of-1 img {
     display: inline-block;
