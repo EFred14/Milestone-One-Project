@@ -24,6 +24,9 @@ When brainstorming the **initial concept**, I typed up what I wanted to do with 
 
 **Other Ideas**- Navbar Titles different colors, link to buy tickets in Navbar. Light background.
 
+The ##Wireframes can be viewed :
+https://github.com/EFred14/Milestone-One-Project/blob/master/Milestone%20One%20Wireframe.pdf
+
 ## Features
 ### Existing Features
 * **Responsive**. Allows users to utilize the website on a variety of devices.
@@ -71,6 +74,10 @@ https://github.com/
 
 ### JavaScript & JQuery
 JavaScript and JQuery were used to assist in the execution of bootstrap 4. https://www.javascript.com/    https://jquery.com/
+
+### Pencil Project 
+Used to create wireframes. 
+https://pencil.evolus.vn/Features.html
 
 ### W3C Jigsaw CSS Validator
 Used to check CSS.
