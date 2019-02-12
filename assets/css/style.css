@@ -66,6 +66,14 @@ button.navbar-toggler {
     border-color: #000000 !important;
 }
 
+.table-dark td, 
+.table-dark th, 
+.table-dark thead th {
+    border-color: #FF1493;
+    color:  #FF1493;
+    font-weight: 700;
+}
+
 /*--------------------------------------------Images*/
 .image-of-1 img {
     display: inline-block;
