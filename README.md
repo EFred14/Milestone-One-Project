@@ -24,7 +24,7 @@ When brainstorming the **initial concept**, I typed up what I wanted to do with 
 
 **Other Ideas**- Navbar Titles different colors, link to buy tickets in Navbar. Light background.
 
-The ##Wireframes can be viewed :
+The **Wireframes** can be viewed :
 https://github.com/EFred14/Milestone-One-Project/blob/master/Milestone%20One%20Wireframe.pdf
 
 ## Features
