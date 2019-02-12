@@ -241,10 +241,10 @@ html,body{
 /*--------------------------------------------Hover.css/social icons*/
 #social i {
    color: #000000;
-   width: 40px;
-   height: 40px;
-   font-size: 28px;
-   padding: 6px;
+   width: 2.5rem;
+   height: 2.5rem;
+   font-size: 1.75rem;
+   padding: 0.375rem;
    text-align: center;
    border-radius:50%;
    transition: all 0.35s ease-in-out;
@@ -274,15 +274,15 @@ footer {
 }
 
 .footer-icons {
-    padding-top: 9px;
+    padding-top: 0.5625rem;
     padding-right: 0;
     padding-left: 0;
 }
 
 .copyright {
-    font-size: 12px !important;
+    font-size: 0.75rem !important;
     text-align: center;
-    padding-top: 1em;
+    padding-top: 1rem;
 }
 
 /*--------------------------------------------Media Queries*/
