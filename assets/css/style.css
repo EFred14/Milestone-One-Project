@@ -59,12 +59,13 @@ div.inside-news {
 }
 
 .news1,
-.news4,
-.news5,
 .news2,
 .news3,
-.news6{
-    background-color:#f1f1f1;   
+.news4,
+.news5,
+.news6 {
+    background-color:#f1f1f1;
+    padding: 0.25rem;
 }
 
 .news-link-button {
