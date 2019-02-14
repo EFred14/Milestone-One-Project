@@ -1,6 +1,6 @@
 # Milestone-One-Project
 ## LADY GAGA
-The Lady Gaga website was created to show a variety of skills obtained from The Code Institute’s Full-Stack Software Developer Program. During the program, a series of Milestone Projects are required. The First Milestone Project suggests creating a band page and requires students to utilize HTML, CSS, and other skills.
+The Lady Gaga website was created to show a variety of skills obtained from The Code Institute’s Full-Stack Software Developer Program. During the program, a series of Milestone Projects are required. The First Milestone Project suggests creating a band page and requires students to utilize HTML, CSS, and other skills. It is a FrontEnd only site. 
 Lady Gaga was selected for the project as she has recently been featured on various shows, in numerous publications, and starred in a film. The website showcases Lady Gaga and acts as a website for her fans.
 
 ## UX
