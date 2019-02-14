@@ -58,6 +58,15 @@ div.inside-news {
     background-repeat: no-repeat;    
 }
 
+.news1,
+.news4,
+.news5,
+.news2,
+.news3,
+.news6{
+    background-color:#f1f1f1;   
+}
+
 .news-link-button {
     font-weight: bold;
     color:#7F00FF;
