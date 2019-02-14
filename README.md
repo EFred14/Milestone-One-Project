@@ -95,7 +95,7 @@ During the development of the website, a variety of testing took to place. Below
  https://github.com/EFred14/Milestone-One-Project/blob/master/Testing%20Milestone%20One.docx
       
 
-The website shares the same content at various device sizes. For smaller devices, the navigation bar becomes a dropdown and expands as the size of the screen increases. Also, at a smaller screen size, some of the content becomes one column and expands as the screen size becomes larger. This can be seen on the Home Page and Events Page.
+The website shares the same content at various device sizes. For smaller devices, the navigation bar becomes a dropdown and expands as the size of the screen increases. Also, at a smaller screen size, some of the content becomes one column and expands as the screen size becomes larger. This can be seen on the Home Page and Events Page. For laptops and larger screen sizes, a margin was added to each page. 
 
 During the project, from the beginning, I was having difficulty with my laptop and getting Chrome DevTools and cloud9 to function properly on it. I then tried writing the project on a Mac and had no issues. Once I realized that everything was functioning properly on one computer, I reformatted the computer with the issues. After the reformat, I had no issues with the laptop and the code appeared as it should.
 
@@ -103,7 +103,8 @@ During the project, from the beginning, I was having difficulty with my laptop a
 This page has been deployed using **GitHub Pages** and can be viewed at:
 https://efred14.github.io/Milestone-One-Project/
 
-To deploy my project onto a server, GitHub was used. A new repository was created and given a fitting name. Then, the project was pushed from Cloud9 to GitHub.
+To deploy my project onto a server, GitHub was used. 
+First, a new repository was created in GitHub and given a fitting name. Then, the project was pushed from Cloud9 to GitHub. Once the project was on Github, I then went into settings and enabled the deployment of it in the GitHub Pages section. 
 
 ## Credits
 ### Content
