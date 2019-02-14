@@ -54,7 +54,8 @@ body {
 }
 
 div.inside-news {
-    background-color:#ededed;    
+    background-image:url(../images/grey2.jpg);
+    background-repeat: no-repeat;    
 }
 
 .news-link-button {
