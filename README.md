@@ -119,6 +119,7 @@ First, a new repository was created in GitHub and given a fitting name. Then, th
 ### Media
 ### Photos
 The photos used in this site were obtained from a variety of sources.
+
 **NEWS Icons**
 * **abc.news** - https://abcnews.go.com/
 * **enews**- https://www.eonline.com/
